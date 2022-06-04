@@ -1,0 +1,6 @@
+C:\Users\KaFunk\source\repos\Express Portfolio\Express Portfolio\obj\Debug\Express Portfolio.njsproj.AssemblyReference.cache
+C:\Users\KaFunk\source\repos\Express Portfolio\Express Portfolio\obj\Debug\Express Portfolio.njsproj.CoreCompileInputs.cache
+C:\Users\KaFunk\source\repos\Express Portfolio\Express Portfolio\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\KaFunk\source\repos\Assignment-1-Express-Portfolio\Express Portfolio\Express Portfolio\obj\Debug\Express Portfolio.njsproj.AssemblyReference.cache
+C:\Users\KaFunk\source\repos\Assignment-1-Express-Portfolio\Express Portfolio\Express Portfolio\obj\Debug\Express Portfolio.njsproj.CoreCompileInputs.cache
+C:\Users\KaFunk\source\repos\Assignment-1-Express-Portfolio\Express Portfolio\Express Portfolio\bin\Microsoft.NodejsTools.WebRole.dll
