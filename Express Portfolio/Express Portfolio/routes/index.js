@@ -8,6 +8,11 @@
 var express = require('express');
 var router = express.Router();
 
+app.use(express.static('public'));
+app.use('/css', express.static('css'));
+app.use('/js', express.static('js'));
+app.use('/files', express.static('files'));
+app.use('/images', express.static('images'));
 
 router.get('/', function (req, res) {
     res.render('index', { title: 'Express Portfolio Home Page' });

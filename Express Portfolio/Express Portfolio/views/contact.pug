@@ -2,7 +2,22 @@ extends layout
 
 block content
   h1= title
-  p contact panel
-  p echarlto@mycentennialcollege.ca
+  p echarlto@my.centennialcollege.ca
 
-  p form First Name Last Name Contact Number Email Address Message 
+    form(action='/add_movie', method='POST')
+    p
+      |          First Name: 
+      input(type='text', name='firstname', value='') 
+      br
+      |          Last Name: 
+      input(type='text', name='lastname', value='')
+      br
+      |          Contact Number: 
+      input(type='text', name='number', value='')
+      br
+      |          Email Address: 
+      input(type='text', name='email', value='') 
+      br
+      |          Message: 
+      input(type='text', name='message', value='')
+    input(type='submit', value='Submit')
